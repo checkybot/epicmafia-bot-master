@@ -1,0 +1,21 @@
+{
+  "name": "epicmafia-bot-master",
+  "version": "1.0.0",
+  "description": "epicmafia-bot-master",
+  "main": "epicmafia-bot.js",
+  "scripts": {
+    "start": "node epicmafia-bot.js"
+  },
+  "author": "epicmafia-bot-master",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.5.5",
+    "node-telegram-bot-api": "^0.40.0",
+    "zombie": "^6.1.4",
+    "discord.js": "^12.3.1"
+  },
+  "engines": {
+    "node": "13.8.0",
+    "npm": "6.14.4"
+  }
+}
